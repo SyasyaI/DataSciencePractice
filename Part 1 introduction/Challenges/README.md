@@ -1,1 +1,1 @@
-
+Used 3 different Scikit clasification packages. From the demo, it was predicted that the new data was that of a Female. Based on the 3 different classifications ran, ensemble returned male while neural network and gaussian process returned female. This would suggest that ensemble was not the strongest classification method
